@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="shital-PC" name="mavent1m1.m2" tests="1" failures="0" timestamp="10 Dec 2018 11:20:35 GMT" time="0.023" errors="0">
+  <testcase name="test" time="0.01" classname="mavent1m1.m2"/>
+</testsuite>
