@@ -1,11 +1,10 @@
 package mavent1m1;
-
-import org.openqa.selenium.Keys;
+import mavent1m1.Utilies;
+import mavent1m1.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import amazone.*;
-public class Main_hotel {
+public class Main_hotel2 {
 	
 	String  HOTEL="//a[@class='tab-hotel dynamic-hotel-tab-link-desktop']";
 String CITY="//input[@id='ss']";

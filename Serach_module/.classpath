@@ -33,15 +33,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/eclipseOxygen/plugins/org.testng_6.14.2.r201802161450.jar" sourcepath="D:/eclipseOxygen/plugins/org.testng.source_6.14.2.r201802161450.jar"/>
-	<classpathentry kind="lib" path="C:/Users/shital/.m2/repository/org/testng/testng/6.1.1/testng-6.1.1.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="org.testng"/>
-			<attribute name="maven.artifactId" value="testng"/>
-			<attribute name="maven.version" value="6.1.1"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/shital/Downloads/selenium-server-2.50.0/selenium-2.50.0/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

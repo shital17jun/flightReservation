@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import amazone.*;
 public class Main_car {
 	String CAR="//a[@class='tab-car']";
 	String PICKUP_LOCATION ="//input[@id='ct_s1_pickup_loc']";

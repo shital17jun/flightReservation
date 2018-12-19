@@ -8,8 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import amazone.Utilies;
-import  amazone.*;
+import mavent1m1.Utilies;
+import mavent1m1.*;
 public class MainPage
 {
 	Utilies u=new Utilies();

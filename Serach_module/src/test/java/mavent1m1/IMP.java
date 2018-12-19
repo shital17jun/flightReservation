@@ -1,5 +1,5 @@
 package mavent1m1;
-import amazone.MainPage;
+import mavent1m1.MainPage;
 import org.testng.annotations.Test;
 
 

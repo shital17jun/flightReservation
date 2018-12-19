@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53" started-at="2018-12-07T11:05:32Z" finished-at="2018-12-07T11:05:32Z">
+  <suite name="Suite" duration-ms="47288" started-at="2018-12-19T07:41:04Z" finished-at="2018-12-19T07:41:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53" started-at="2018-12-07T11:05:32Z" finished-at="2018-12-07T11:05:32Z">
-      <class name="mavent1m1.m2">
-        <test-method status="PASS" signature="test()[pri:0, instance:mavent1m1.m2@27a8c74e]" name="test" duration-ms="13" started-at="2018-12-07T11:05:32Z" finished-at="2018-12-07T11:05:32Z">
+    <test name="Test" duration-ms="47288" started-at="2018-12-19T07:41:04Z" finished-at="2018-12-19T07:41:51Z">
+      <class name="mavent1m1.IMP">
+        <test-method status="PASS" signature="finaltest()[pri:0, instance:mavent1m1.IMP@27a8c74e]" name="finaltest" duration-ms="47251" started-at="2018-12-19T07:41:04Z" finished-at="2018-12-19T07:41:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- mavent1m1.m2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- finaltest -->
+      </class> <!-- mavent1m1.IMP -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
